@@ -1,5 +1,7 @@
 ## Getting Started
 
+<img width="1439" alt="hero" src="https://user-images.githubusercontent.com/54872601/172040997-c82f58f2-54ca-4e3a-9735-4b40c9ee61ac.png">
+
 First, run the development server:
 
 ```bash
