@@ -16,7 +16,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## How to use
 1. METHOD: GET
-2. API: http://localhost:3000/api/public?url=https://apple.com
+2. API Path: http://localhost:3000/api/public?url=<WEBSITE_URL>
+2a. Local API Sample: http://localhost:3000/api/public?url=https://apple.com or
+2b. Testing API Sample: https://monitor-api.vercel.app/api/public?url=https://apple.com
 3. Return: `{
     "status": 200,
     "statusText": "OK",
